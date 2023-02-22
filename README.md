@@ -25,7 +25,7 @@ AUTHOR:
  pip install futures
  pip install mechanize
  cd $HOME 
- git clone https://github.com/botolmehedi/braje
+ git clone --depth=1 https://github.com/U7P4L-IN/DUMP.git
  clear && ls && cd braje && ls
  bash install.sh && clear
  python FB.py
