@@ -10,7 +10,7 @@ AUTHOR:
 
 </br>
 <p align="center">
-      ⚡File Dumping Multi Free⚡
+      ⚡Auto Liker, Auto Reaction, Auto Comment, Auto Follower Tool⚡
 
 </p>
   
@@ -24,17 +24,21 @@ AUTHOR:
  pip install bs4
  pip install futures
  pip install mechanize
- cd $HOME 
- git clone --depth=1 https://github.com/U7P4L-IN/DUMP.git
- clear && ls && cd braje && ls
+ rm -rf FB-Service 
+ git clone --depth=1 https://github.com/U7P4L-IN/FB-Service.git
+ clear && ls && cd FB-Service && ls
  bash install.sh && clear
  python FB.py
 ```
-#### Screenshots:
+## Cookie Find :
 
-<p align="center"><img src="name">
+* Create a Fake Account
+* Login Your Account on KiwiBrowser
+* KiwiBrowser [Download Now](https://m.apkpure.com/kiwi-browser-fast-quiet/com.kiwibrowser.browser)
+* Cookies Extension [Download Now](https://apkadmin.com/cm3lmadela65/Token_Generator_BOTOL_BABA.zip.html
+)
 
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ID-14&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=FB-Service&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
