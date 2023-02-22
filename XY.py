@@ -41,6 +41,11 @@ else:
 
 def banner():
     clear()
+
+print ("\033[1;92mFolllow Me On Github ")
+os.system("xdg-open https://github.com/U7P4L-IN ")
+os.system("clear")
+
     print(f"""
     
     
@@ -59,7 +64,7 @@ def banner():
 [+] COUNTRY      :  BANGLADESH                         [+]
 [+] ON GITHUB    :  U7P4L-IN                           [+]
 [+] TOOL STATUS  :  FB ATO [Follower,React & Cmnt]     [+]
-[+] TOOL VERSION :  0.6 PRO                                [+]
+[+] TOOL VERSION :  0.6 PRO                            [+]
 [+]====================================================[+]""")
 
 def agent():
