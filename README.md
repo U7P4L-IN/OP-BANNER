@@ -28,13 +28,13 @@ You can extract them by clicking right top menu button.
 - Custom user-agent: By default it use original user-agent of your device you can also set it from settings as your needs.
 ##
 # IMAGES
-![alt text](https://github.com/zaidrao/Facebook-Lite-Plus/blob/main/Images/IMG_20221018_015559.jpg)
+![alt text](https://github.com/U7P4L-IN/FB-Lite-Plus/blob/main/images/IMG_20221018_015559.jpg)
 #
-![alt text](https://github.com/zaidrao/Facebook-Lite-Plus/blob/main/Images/IMG_20221018_015942.jpg)
+![alt text](https://github.com/U7P4L-IN/FB-Lite-Plus/blob/main/images/IMG_20221018_020335.jpg)
 #
-![alt text](https://github.com/zaidrao/Facebook-Lite-Plus/blob/main/Images/IMG_20221018_020138.jpg)
+![alt text](https://github.com/U7P4L-IN/FB-Lite-Plus/blob/main/images/IMG_20221018_015942.jpg)
 #
-![alt text](https://github.com/zaidrao/Facebook-Lite-Plus/blob/main/Images/IMG_20221018_020335.jpg)
+![alt text](https://github.com/U7P4L-IN/FB-Lite-Plus/blob/main/images/IMG_20221018_020138.jpg)
 #
 # FUTURE UPDATES
 In future if I got good response from you I'll definitely update it.
@@ -46,3 +46,6 @@ Click the download button to download latest release app.
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 [![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://github.com/U7P4L-IN/FB-Lite-Plus/releases/download/019/Facebook.Lite+.19.apk)
 <!-- END LATEST DOWNLOAD BUTTON -->
+
+
+### Thanks For Visiting 🌿🥰
