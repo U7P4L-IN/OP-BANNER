@@ -36,11 +36,11 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 ```
 #### Screenshots:
 
-<p align="center"><img src="name">
+<p align="center"><img src="https://github.com/U7P4L-IN/OP-BANNER/blob/main/IMG_20230322_114210.jpg">
 
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ID-14&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=OP-BANNER&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ## Thanks For Visiting 🧡🧡
