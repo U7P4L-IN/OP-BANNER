@@ -66,8 +66,8 @@ PS1="\[\e[1;34m┌──\\a─T─I─M─E─\\a──┐\\033[1;34m\\a┌─�
 
 h2 = open(output+'bash.bashrc', 'w')
 h2.write(bashrc1)
-h2.write("\nfiglet    '    "+name+"' |lolcat\n")
-h2.write("\nfiglet    '    "+name2+"' |lolcat\n")
+h2.write("\nfiglet -f slant    '    "+name+"' |lolcat\n")
+h2.write("\nfiglet -f slant    '    "+name2+"' |lolcat\n")
 h2.write(bashrc2)
 h2.write('\[\e[34m\]└─>\[\e[35m\]'+name+name2+'\[\e[34m\][~]:#\[\e[1;32m\] "\n')
 h2.write('echo -e "\e[6 q"')
