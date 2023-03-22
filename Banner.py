@@ -39,7 +39,7 @@ bashrc1 = '''
 clear
 echo
 
- echo "  < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
+ echo "  < ━━━━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━━━━ >   " |lolcat
 echo
     echo "  WE ARE ANONYMOUS" |lolcat
 '''
