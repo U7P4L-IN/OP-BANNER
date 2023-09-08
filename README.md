@@ -17,9 +17,7 @@ cd OP-BANNER
 python2 Banner.py
 ````
 ### 𝙎𝙘𝙧𝙚𝙚𝙣𝙎𝙝𝙤𝙧𝙩 𝘿𝙚𝙢𝙤
-<p align="center">
-      
-https://github.com/U7P4L-IN/OP-BANNER.git
+<p align="center"><img src="https://github.com/U7P4L-IN/OP-BANNER/blob/main/image/GridArt_20230908_133206273.png">
 
 ### 𝙏𝙤𝙤𝙡𝙨 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚
-
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=OP-BANNER&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
